@@ -1,0 +1,10 @@
+greenlet
+pymongo
+pika
+requests
+
+virtualenv      形成一套虚拟环境
+supervisor      管理
+
+# 不用
+将所有库安装在系统环境中
